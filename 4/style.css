@@ -1,0 +1,24 @@
+.um{
+    background-image: url(raposa-do-artico-pequena.jpeg);
+    background-size: cover ;
+    height: 300px;
+    width: 300px;
+    border: 2px solid;
+    border-radius: 10px ;
+    padding: 20px 20px;
+    background-size: 300px cover;
+}
+.dois{
+    height: 100px;
+    width: 100px;
+    border: 1px solid;
+    padding: 10px 10px;
+    background-color:#FFF;
+}
+.tres{
+    height: 100px;
+    width: 100px;
+    border: 1px solid;
+    padding: 10px 10px;
+background-color: black;
+}

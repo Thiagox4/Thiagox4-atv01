@@ -1,0 +1,15 @@
+div{
+    width: 230px;
+    height: 115px;
+    padding: 10px;
+    border: 1px solid #bbb;
+    border-radius: 5px ;
+}
+
+tr:first-child {
+    background-color: #1c9b37; 
+    color: #000000; 
+}
+td:last-child {
+    background-color: #08e643; 
+}

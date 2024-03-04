@@ -1,0 +1,12 @@
+div{
+    width: 230px;
+    height: 115px;
+    padding: 10px;
+    border: 1px solid #bbb;
+    border-radius: 5px ;
+    background-image: url('login.jpg');
+    color: rgb(12, 59, 2);
+}
+div button{
+    color: blue;   
+}
